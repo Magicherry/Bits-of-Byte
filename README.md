@@ -1,1 +1,1 @@
-# Gits-of-Byte
+# Bits-of-Byte - Personal Blogs
